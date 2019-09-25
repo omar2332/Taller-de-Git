@@ -44,5 +44,5 @@ git branch
 Para agregar una 
 
 ´´´
-
 git checkout [nombre_de_RAMA]
+´´´
