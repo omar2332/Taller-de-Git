@@ -32,3 +32,17 @@ Para resetar un archivo
 ´´´ 
 git reset HEAD <nombre_archivo>
 ´´´
+
+RAMAS
+
+PAra ver las RAMAS
+
+´´´
+git branch
+´´´
+
+Para agregar una 
+
+´´´
+
+git checkout [nombre_de_RAMA]
